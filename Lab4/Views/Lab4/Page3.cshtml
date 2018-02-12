@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Page3";
+}
+
+
+@model List<string>
+
+
+<h1 class="purple-header">@ViewData["Message"]</h1>
+
+<ol>
+@foreach (var item in Model)
+{
+        <li>@item</li>
+}
+</ol>
+

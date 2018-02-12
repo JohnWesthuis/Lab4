@@ -1,0 +1,11 @@
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\bin\Debug\netcoreapp2.0\Lab4.deps.json
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\bin\Debug\netcoreapp2.0\Lab4.runtimeconfig.json
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\bin\Debug\netcoreapp2.0\Lab4.runtimeconfig.dev.json
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\bin\Debug\netcoreapp2.0\Lab4.dll
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\bin\Debug\netcoreapp2.0\Lab4.pdb
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\obj\Debug\netcoreapp2.0\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\obj\Debug\netcoreapp2.0\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\obj\Debug\netcoreapp2.0\Lab4.AssemblyInfoInputs.cache
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\obj\Debug\netcoreapp2.0\Lab4.AssemblyInfo.cs
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\obj\Debug\netcoreapp2.0\Lab4.dll
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\obj\Debug\netcoreapp2.0\Lab4.pdb

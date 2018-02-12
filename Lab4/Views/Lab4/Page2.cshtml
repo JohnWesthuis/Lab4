@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewData["Title"] = "Page2";
+}
+
+<div class="purple-header">
+    <h1>
+        Page2
+    </h1>
+</div>
+<p>
+    select the number of profiles to display:
+</p>
+
+<div>
+    <a class="number btn btn-primary" asp-area="" asp-controller="Lab4" asp-action="Page2/1" id="1">1</a>
+    <a class="number btn btn-primary" asp-area="" asp-controller="Lab4" asp-action="Page2/2" id="2">2</a>
+    <a class="number btn btn-primary" asp-area="" asp-controller="Lab4" asp-action="Page2/3" id="3">3</a>
+    <a class="number btn btn-primary" asp-area="" asp-controller="Lab4" asp-action="Page2/4" id="4">4</a>
+    <a class="number btn btn-primary" asp-area="" asp-controller="Lab4" asp-action="Page2/5" id="5">5</a>
+</div>
+
+
+@model  int;
+
+@{
+    for (int i = 0; i < Model ; i++) 
+    {
+        <div class="profile-header">
+            <h2> Profile @(i + 1)</h2>
+        </div>
+        <div class="profile-body">
+            <p>
+                <strong>Name:</strong> @LoremNET.Lorem.Words(3);
+            </p>
+            <p>
+                <strong>Email:</strong> @LoremNET.Lorem.Email();
+</p>
+            <p>
+                <strong>Bio:</strong> @LoremNET.Lorem.Words(40, 70);
+</p>
+        </div>
+
+    }
+}
+
+<br />
+<br />
+<br />
+
+<a class="green-button" asp-area="" asp-controller="Lab4" asp-action="Page3"> Go to page 3</a>

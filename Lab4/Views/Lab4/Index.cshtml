@@ -1,0 +1,33 @@
+﻿@model System.DateTime;
+
+@{
+    
+    int daysLeft = 365 - DateTime.Now.DayOfYear;
+
+    String greeting;
+    if (Model.Hour < 12)
+    {
+        greeting = "Good Morning!";
+
+    }
+    else if (Model.Hour < 17)
+    {
+        greeting = "Good Afternoon!";
+
+    }
+    else
+    {
+        greeting = "Good Evening!";
+
+
+    }
+
+
+}
+
+<div class="purple-header"><h1>@greeting</h1> </div>
+<p> The time is <strong >@Model.ToShortTimeString()</strong> on <strong>@Model.ToLongDateString()</strong></p>
+<p>there are <strong>@daysLeft</strong> more days in <strong>@Model.Year</strong></p>
+<br />
+<br />
+<a class="green-button" asp-area="" asp-controller="Lab4" asp-action="Page2"> Go to page 2</a>

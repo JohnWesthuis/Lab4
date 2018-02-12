@@ -1,0 +1,77 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.purple-header {
+    background-color: purple;
+    margin:20px 0px 20px 0px;
+    padding: 20px;
+    border-radius:10px;
+    color:white;
+}
+
+.green-button {
+    background-color: darkseagreen;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    
+}
+.green-button:hover {
+    background-color:darkgreen;
+    color:white;
+    text-decoration:none;
+}
+
+.number{
+    background-color: cornflowerblue;
+    color:white;
+}
+
+
+.profile-header {
+    background-color: #2f54b9;
+    padding: 5px 20px 5px 20px;
+    color: white;
+    border-top: solid 2px black;
+    border-left: solid 2px black;
+    border-right: solid 2px black;
+    margin-top: 20px;
+}
+
+.profile-body {
+    background-color: lightcyan;
+    border: solid 2px black;
+    padding: 20px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}

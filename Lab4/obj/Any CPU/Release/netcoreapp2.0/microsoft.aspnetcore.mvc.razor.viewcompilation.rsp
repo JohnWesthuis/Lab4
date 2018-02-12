@@ -1,0 +1,15 @@
+C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=Lab4
+--content-root=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\Home\About.cshtml
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\Home\Contact.cshtml
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\Home\Index.cshtml
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\Lab4\Index.cshtml
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\Lab4\Page2.cshtml
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\Lab4\Page3.cshtml
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\Shared\Error.cshtml
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\Shared\_Layout.cshtml
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\_ViewImports.cshtml
+--file=C:\Users\John westhuis\Desktop\Stockton\Spring 2018\WebApp\Lab4\Lab4\Lab4\Views\_ViewStart.cshtml
